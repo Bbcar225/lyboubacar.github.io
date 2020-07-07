@@ -1,0 +1,89 @@
+.flex-column{
+	margin-top: 50px;
+}
+
+.nav-item{
+	margin-top: 5px;
+}
+
+.last-item{
+	/*margin-bottom: 50px;*/
+}
+
+.content-text-home{
+	margin: 200px auto;
+    border-left: 2px solid black;
+    padding-left: 10px;
+}
+
+.content-text-abouts{
+	margin: 150px auto;
+    border-left: 2px solid black;
+    padding-left: 10px;
+}
+
+.content-text-formations{
+	margin: 100px auto;
+    border-left: 2px solid black;
+    padding-left: 10px;
+}
+
+.content-text-competences{
+	margin: 10px auto;
+    border-left: 2px solid black;
+    padding-left: 10px;
+}
+
+.content-text-experiences{
+	border-left: 2px solid black;
+	margin-top: 50px;
+}
+
+.content-text-contacts{
+    margin: 200px auto;
+    border-left: 2px solid black;
+    padding-left: 10px;
+}
+
+.img-fluid{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+}
+
+.icons-menu{
+	width: 30px;
+}
+
+span{
+	display: none;
+}
+
+.nav-link:hover span{
+	display: inline-block;
+}
+
+.nav-link:hover{
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 5px 10px 8px #888888;
+	background-color: rgba(181, 241, 239, 1);
+}
+
+.content-text-formations li{
+	font-size: 18px;
+}
+
+.align-self-center{
+	width: 64px;
+}
+
+.progress{
+	width: 150px;
+}
+
+.carousel-caption h5, p, .carousel-caption a{
+	color: black;
+	font-weight: bolder;
+	text-decoration: none;
+}
