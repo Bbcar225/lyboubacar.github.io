@@ -114,7 +114,7 @@
 									2016 : <strong>BAC</strong> série D au <strong>LYCÉE MODERNE 3 GAGANOA</strong>
 								</li>
 								<li>
-									2013 : <strong>BEPEC</strong> au <strong>LYCÉE MODERNE 3 GAGANOA</strong>
+									2013 : <strong>BEPEC</strong> au <strong>LYCÉE MODERNE 3 GAGNOA</strong>
 								</li>
 							</ul>
 						</div>
